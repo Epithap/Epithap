@@ -1,56 +1,46 @@
-<h1 align="center">Hi there, I'm Epithap 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Epithap&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:000000,100:1a1b26&height=180&section=header&text=EPITHAP.SYS&fontSize=50&fontColor=7aa2f7&fontAlignY=38&desc=Full-Stack%20Developer%20&%20Network%20Engineer&descSize=16&descColor=bb9af7" />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | 🌐 Network & Systems Engineer</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Bridging+Infrastructure+%26+Code;Cisco+%7C+MikroTik+%7C+Linux;Full-Stack+Web+Architecture" alt="Typing SVG" /></a>
+</h3>
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently exploring advanced **Full-Stack Architecture** and **Network Automation**.
-- 💡 Passionate about bridging the gap between robust infrastructure (Cisco/Mikrotik/Linux) and modern web apps.
-- ⚡ Fun fact: I love making things work from the physical layer up to the UI/UX!
+### ⚡ System Overview
+- **Core Focus:** Building resilient backend systems, scalable web apps, and rock-solid network routing.
+- **Infrastructure:** Enterprise switching/routing, firewall configuration, Linux kernel tuning, and automated deployment.
+- **Philosophy:** *"If it works on physical layer, it will definitely compile."*
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Architecture & Tech Stack
 
-#### 🌐 Networking & Systems
-<p>
-  <img src="https://img.shields.io/badge/Cisco-CCNA-0496FF?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-MTCNA-002B49?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu/Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-#### 💻 Full-Stack Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+| Layer | Technologies |
+| :--- | :--- |
+| **🌐 Networking & OS** | `Cisco CCNA` `MikroTik MTCNA` `Linux (Debian/Ubuntu)` `Docker` `Nginx` `TCP/IP` `BGP/OSPF` |
+| **💻 Backend & Systems** | `Node.js` `TypeScript` `Python` `PostgreSQL` `REST APIs` |
+| **🖥️ Frontend & UI** | `React` `TailwindCSS` `JavaScript (ES6+)` |
+| **⚙️ DevOps & Tools** | `Git` `GitHub Actions` `SSH` `Postman` `VS Code` |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Terminal Analytics
+
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Epithap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epithap&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Epithap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epithap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=Epithap&theme=tokyonight&no-frame=true&margin-w=4" />
+  <img src="https://github-readme-trophy.vercel.app/?username=Epithap&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=3" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b26,100:000000&height=70&section=footer&text=Keep%20Coding%20&%20Routing&fontSize=16&fontColor=9ece6a" />
 </p>
