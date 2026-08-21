@@ -50,6 +50,28 @@
 
 ---
 
+### 📡 // Secure Comm_Links
+
+<div align="center">
+  <a href="mailto:upiwae6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lutvi-alif-daicifortito-47b73a427" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/its_ltv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/upi.alif.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%40epithapp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+---
+
 <p align="center">
   <code>[root@epithap ~]# shutdown -h now "Done for the day"</code>
 </p>
